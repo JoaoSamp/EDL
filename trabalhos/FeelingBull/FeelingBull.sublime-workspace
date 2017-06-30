@@ -4,6 +4,82 @@
 		"selected_items":
 		[
 			[
+				"move",
+				"moveType"
+			],
+			[
+				"Move",
+				"moveType"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"dra",
+				"drawTime"
+			],
+			[
+				"game",
+				"gamestatus"
+			],
+			[
+				"char",
+				"chartype"
+			],
+			[
+				"pso",
+				"posX"
+			],
+			[
+				"ps",
+				"posX"
+			],
+			[
+				"type",
+				"type2"
+			],
+			[
+				"typ",
+				"type2"
+			],
+			[
+				"get",
+				"getUserData"
+			],
+			[
+				"imagemn",
+				"imagemng"
+			],
+			[
+				"mod",
+				"modifier"
+			],
+			[
+				"im",
+				"imageSize"
+			],
+			[
+				"ke",
+				"keyconfig"
+			],
+			[
+				"gameM",
+				"gameMainMenu"
+			],
+			[
+				"quad",
+				"quads"
+			],
+			[
+				"spe",
+				"sprites"
+			],
+			[
+				"s",
+				"Scene"
+			],
+			[
 				"newjoin",
 				"love.physics.newWheelJoint"
 			],
@@ -47,25 +123,7 @@
 			"file": "main.lua",
 			"settings":
 			{
-				"buffer_size": 1371,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "chars/player.lua",
-			"settings":
-			{
-				"buffer_size": 2831,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "chars/bull.lua",
-			"settings":
-			{
-				"buffer_size": 1637,
+				"buffer_size": 831,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -74,16 +132,35 @@
 			"file": "modes/mode.lua",
 			"settings":
 			{
-				"buffer_size": 277,
+				"buffer_size": 6540,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "chars/character.lua",
+			"file": "modes/scenes.lua",
 			"settings":
 			{
-				"buffer_size": 523,
+				"buffer_size": 2939,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "chars/player.lua",
+			"settings":
+			{
+				"buffer_size": 4181,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "chars/bull.lua",
+			"settings":
+			{
+				"buffer_size": 5260,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -161,21 +238,26 @@
 	},
 	"expanded_folders":
 	[
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/animator",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/chars",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/config",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/modes",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/sprites"
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull"
 	],
 	"file_history":
 	[
+		"/C/Users/NOTEBOOK/Downloads/Janeiro sertanejo Loja do som automotivo/Leia.txt",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/config/gamestatus.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/particles/bullet.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/particles/Bullet.lua",
 		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/chars/character.lua",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/chars/player.lua",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/animator/imagemng.lua",
-		"/C/John/GameDevelopment/Game01/main.lua",
-		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/main.lua",
 		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/chars/bull.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/chars/player.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/config/gamestatus",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/config/chartype.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/modes/scenes.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/modes/mode.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/config/keyconfig.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/config/enums.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/animator/imagemng.lua",
+		"/C/John/GameDevelopment/love-0.10.2-win64/FeelingBull/main.lua",
+		"/C/John/GameDevelopment/Game01/main.lua",
 		"/C/John/GameDevelopment/love-0.10.2-win64/Dezla/chars/character.lua",
 		"/C/John/GameDevelopment/love-0.10.2-win64/Dezla/chars/player.lua",
 		"/C/John/GameDevelopment/love-0.10.2-win64/Dezla/chars/bull.lua",
@@ -231,6 +313,43 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"changeMove",
+			"stopTime",
+			"idle",
+			"back",
+			"\t\t\t\n",
+			"start",
+			"status",
+			"mode.stat",
+			"150",
+			"modif",
+			"scene:new",
+			"enums",
+			"enum",
+			"enums.charType.",
+			"player",
+			"lastCollision",
+			"derahud",
+			"drawhud",
+			"i ",
+			"draw",
+			"scene:draw",
+			"draw",
+			"scene.draw",
+			"scene.dra",
+			"scene",
+			"draw",
+			"drawHUD\n",
+			"drawHUD",
+			"player.cape.q",
+			"player",
+			"cquad",
+			"widht",
+			"width",
+			"mainm",
+			"player",
+			"cQad",
+			"alive",
 			"idle",
 			"\"\n",
 			"chart",
@@ -254,6 +373,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"chartype.",
 			"char",
 			"chart",
 			"Bull",
@@ -270,7 +390,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -279,106 +399,21 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1371,
+						"buffer_size": 831,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1364,
-								1364
+								643,
+								643
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 61.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "chars/player.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2831,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1555,
-								1555
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
 							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 600.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "chars/bull.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1637,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1637,
-								1637
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 315.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "modes/mode.lua",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 277,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -388,32 +423,119 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "chars/character.lua",
+					"buffer": 1,
+					"file": "modes/mode.lua",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 523,
+						"buffer_size": 6540,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								3735,
+								3735
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "modes/scenes.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "chars/player.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4181,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1977,
+								1977
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "chars/bull.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4360,
+								4360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeLove/Love.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1395.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -462,7 +584,7 @@
 	"project": "FeelingBull.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":

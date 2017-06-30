@@ -4,7 +4,7 @@ local KeyConfig = {}
 	KeyConfig.kRight = 'right'
 	KeyConfig.kUp = 'up'
 	KeyConfig.kDown = 'down'
-	KeyConfig.aButton = 'k'
-	KeyConfig.bButton = 'j'
+	KeyConfig.kConfirm = 'return'
+	KeyConfig.kEsc = 'escape'
 
 return KeyConfig
